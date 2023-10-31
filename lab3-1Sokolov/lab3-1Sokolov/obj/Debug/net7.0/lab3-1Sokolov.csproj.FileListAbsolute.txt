@@ -1,0 +1,14 @@
+D:\с#\lab3-1Sokolov\lab3-1Sokolov\bin\Debug\net7.0\lab3-1Sokolov.exe
+D:\с#\lab3-1Sokolov\lab3-1Sokolov\bin\Debug\net7.0\lab3-1Sokolov.deps.json
+D:\с#\lab3-1Sokolov\lab3-1Sokolov\bin\Debug\net7.0\lab3-1Sokolov.runtimeconfig.json
+D:\с#\lab3-1Sokolov\lab3-1Sokolov\bin\Debug\net7.0\lab3-1Sokolov.dll
+D:\с#\lab3-1Sokolov\lab3-1Sokolov\bin\Debug\net7.0\lab3-1Sokolov.pdb
+D:\с#\lab3-1Sokolov\lab3-1Sokolov\obj\Debug\net7.0\lab3-1Sokolov.GeneratedMSBuildEditorConfig.editorconfig
+D:\с#\lab3-1Sokolov\lab3-1Sokolov\obj\Debug\net7.0\lab3-1Sokolov.AssemblyInfoInputs.cache
+D:\с#\lab3-1Sokolov\lab3-1Sokolov\obj\Debug\net7.0\lab3-1Sokolov.AssemblyInfo.cs
+D:\с#\lab3-1Sokolov\lab3-1Sokolov\obj\Debug\net7.0\lab3-1Sokolov.csproj.CoreCompileInputs.cache
+D:\с#\lab3-1Sokolov\lab3-1Sokolov\obj\Debug\net7.0\lab3-1Sokolov.dll
+D:\с#\lab3-1Sokolov\lab3-1Sokolov\obj\Debug\net7.0\refint\lab3-1Sokolov.dll
+D:\с#\lab3-1Sokolov\lab3-1Sokolov\obj\Debug\net7.0\lab3-1Sokolov.pdb
+D:\с#\lab3-1Sokolov\lab3-1Sokolov\obj\Debug\net7.0\lab3-1Sokolov.genruntimeconfig.cache
+D:\с#\lab3-1Sokolov\lab3-1Sokolov\obj\Debug\net7.0\ref\lab3-1Sokolov.dll
